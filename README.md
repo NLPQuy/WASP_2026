@@ -60,3 +60,7 @@ Each step writes to `$WASP_ROOT/outputs` and no step except the first reads the 
 
 The settings of each run in the paper are in `jobs/`: for example `jobs/lora_full.sh` and
 `jobs/lora_gemma4.sh` for the two submitted LLMs.
+
+## License
+
+MIT. See [LICENSE](LICENSE).

@@ -1,0 +1,40 @@
+# Du lieu va ket qua nang — KHONG BAO GIO commit.
+# CLAUDE.md cua project yeu cau chan nhung thu nay: lo `git add` chuc GB mot lan la hong repo.
+data/
+outputs/
+*.csv
+*.npy
+*.npz
+*.parquet
+*.pt
+*.jsonl
+
+# Bi mat
+kaggle*.json
+.env
+*.ovpn
+.vpn-auth
+
+# Rac
+__pycache__/
+*.pyc
+.DS_Store
+venv/
+
+# Chi public CODE. Nhung thu duoi day o lai tren may, khong vao repo.
+paper/
+docs/
+CLAUDE.md
+ASTROCLIMB.md
+HANDOFF_scale_data.md
+Brainstorm_skill.md
+scripts/diag/README.md
+# Script van hanh rieng cho cum
+sync.sh
+stage.sh
+run.sh
+pack.sh
+mkenv.sh
+log.sh
+cpdata.sh
+*.zip

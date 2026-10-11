@@ -1,0 +1,13 @@
+# Install torch and torchvision first, built for your CUDA version (we used torch==2.13.0, torchvision==0.28.0, cu126).
+transformers
+sentence-transformers
+peft
+timm
+python-doctr
+huggingface_hub
+pyarrow
+pillow
+numpy
+pandas
+scipy
+scikit-learn
